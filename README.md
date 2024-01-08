@@ -1,2 +1,2 @@
-# spectagram-stage-4
-project solution c84
+# PRO-C84-PCP-SPECTAGRAM-STAGE-4
+Project Solution C84
